@@ -1,1 +1,1 @@
-# JsonAdapterFeedbackPrredictor
+# JsonAdapterFeedbackPredictor
